@@ -1,0 +1,17 @@
+{
+  "name": "express-graphql",
+  "version": "1.0.0",
+  "description": "Node-express graphql",
+  "main": "app.js",
+  "author": "Tittoh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
